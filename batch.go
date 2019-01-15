@@ -1,4 +1,4 @@
-package gockle
+package peplos
 
 import (
 	"github.com/gocql/gocql"

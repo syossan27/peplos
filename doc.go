@@ -12,4 +12,4 @@
 // Tx is short for transaction.
 //
 // The name gockle comes from a pronunciation of gocql.
-package gockle
+package peplos
